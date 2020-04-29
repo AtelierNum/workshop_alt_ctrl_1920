@@ -23,7 +23,7 @@ Ce projet a été réalisé par :
 
 <img src="Stamp_It/gif.gif" width="480" height="300" />
 
-
+La documentation du projet est disponible [ici](Stamp_It/README.md)
 
 
 
