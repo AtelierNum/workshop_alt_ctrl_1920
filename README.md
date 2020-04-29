@@ -31,11 +31,26 @@ La documentation du projet est disponible [ici](Stamp_It/README.md)
 Ce projet a été réalisé par : 
 Meriem Gharbi, Marie Sandevoir, Hugo Boshat et Johan Carrere.
 
-<img src="Don't_drop_it/Flyer.png" width="480" height="500" />
+<img src="Don't_drop_it/Flyer.png" width="480" height="600" />
 
 <img src="Don't_drop_it/gif.gif" width="480" height="300" />
 
 La documentation du projet est disponible [ici](Don't_drop_it/README.md)
+
+
+---
+## Circus Madness
+
+Ce projet a été réalisé par : 
+Simon Heurtebise, Paul Joly, Jeanne Verstraete et Arthur Joly
+
+<img src="Circus_Madness/Flyer1.png" width="240" height="300" /><img src="Circus_Madness/Flyer2.png" width="240" height="300" />
+
+
+<img src="Circus_Madness/gif.gif" width="480" height="300" />
+
+La documentation du projet est disponible [ici](Circus_Madness/README.md)
+
 
 
 
