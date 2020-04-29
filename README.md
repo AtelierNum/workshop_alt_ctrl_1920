@@ -51,7 +51,18 @@ Simon Heurtebise, Paul Joly, Jeanne Verstraete et Arthur Joly
 
 La documentation du projet est disponible [ici](Circus_Madness/README.md)
 
+---
+## TripleM
 
+Ce projet a été réalisé par : 
+Simon Heurtebise, Paul Joly, Jeanne Verstraete et Arthur Joly
+
+<img src="TripleM/Flyer1.png" width="240" height="300" /><img src="TripleM/Flyer2.png" width="240" height="300" />
+
+
+<img src="TripleM/gif.gif" width="480" height="300" />
+
+La documentation du projet est disponible [ici](TripleM/Documentation.pdf)
 
 
 ---
