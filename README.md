@@ -25,7 +25,19 @@ Ce projet a été réalisé par :
 
 La documentation du projet est disponible [ici](Stamp_It/README.md)
 
+---
+## Don't drop it
+
+Ce projet a été réalisé par : 
+Meriem Gharbi, Marie Sandevoir, Hugo Boshat et Johan Carrere.
+
+<img src="Don't_drop_it/Flyer.png" width="480" height="500" />
+
+<img src="Don't_drop_it/gif.gif" width="480" height="300" />
+
+La documentation du projet est disponible [ici](Don't_drop_it/README.md)
+
 
 
 ---
-[**home**](..README.md)
+[**home**](../README.md)
