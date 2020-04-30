@@ -16,7 +16,7 @@ Les fichiers peuvent-être téléchargés sur [github](https://github.com/Atelie
 ## Stamp-it
 
 Ce projet a été réalisé par : 
-[Emilie Schaffer](www.emilie-schaefer.com), [Riwan Madjitate](https://www.fichier-pdf.fr/2020/02/17/riwan-majidate-portfolio-2020/), [Théo Geiller](http://theogeiller.com/), [Raphaël Perraud](http://raphaelperraud.com/#/)
+[Emilie Schaffer](www.emilie-schaefer.com), [Riwan Madjitate](https://www.fichier-pdf.fr/2020/02/17/riwan-majidate-portfolio-2020/), [Théo Geiller](http://theogeiller.com/), [Raphaël Perraud](http://raphaelperraud.com/#/) avec [Processing](https://processing.org/) et [Arduino](https://www.arduino.cc/).
 
 
 <img src="Stamp_It/Flyer1.png" width="240" height="300" /><img src="Stamp_It/Flyer2.png" width="240" height="300" />
@@ -26,23 +26,24 @@ Ce projet a été réalisé par :
 La documentation du projet est disponible [ici](Stamp_It/README.md)
 
 ---
-## Don't drop it
+## Shaolin Dragon
 
 Ce projet a été réalisé par : 
-Meriem Gharbi, Marie Sandevoir, Hugo Boshat et Johan Carrere.
+Célia Toupin, Allan Guégan, Léo Archer et Ulysse Ducamp avec [Unity](https://unity.com/fr) et [Arduino](https://www.arduino.cc/)
 
-<img src="Don't_drop_it/Flyer.png" width="480" height="600" />
+<img src="Shaolin_Dragon/Flyer1.png" width="240" height="300" /><img src="Shaolin_Dragon/Flyer2.png" width="240" height="300" />
 
-<img src="Don't_drop_it/gif.gif" width="480" height="300" />
 
-La documentation du projet est disponible [ici](Don't_drop_it/README.md)
+<img src="Shaolin_Dragon/gif.gif" width="480" height="300" />
+
+La documentation du projet est disponible [ici](Shaolin_Dragon/README.md)
 
 
 ---
 ## Circus Madness
 
 Ce projet a été réalisé par : 
-Simon Heurtebise, Paul Joly, Jeanne Verstraete et Arthur Joly
+Simon Heurtebise, Paul Joly, Jeanne Verstraete et Arthur Joly avec avec [Processing](https://processing.org/) et [Arduino](https://www.arduino.cc/)
 
 <img src="Circus_Madness/Flyer1.png" width="240" height="300" /><img src="Circus_Madness/Flyer2.png" width="240" height="300" />
 
@@ -55,7 +56,7 @@ La documentation du projet est disponible [ici](Circus_Madness/README.md)
 ## TripleM
 
 Ce projet a été réalisé par : 
-Simon Heurtebise, Paul Joly, Jeanne Verstraete et Arthur Joly
+Julie Boudaud, Rémi Leprevost, Zoé Pan et Lingyi Xia avec [Unity](https://unity.com/fr) et [Arduino](https://www.arduino.cc/)
 
 <img src="TripleM/Flyer1.png" width="240" height="300" /><img src="TripleM/Flyer2.png" width="240" height="300" />
 
