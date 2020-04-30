@@ -65,13 +65,24 @@ La documentation du projet est disponible [ici](Pogo_Empire/README.md)
 
 Vous pourrez retrouver la scène unity dans la partie [release de ce dépot](https://github.com/AtelierNum/workshop_alt_ctrl_1920/releases/tag/1.0)
 
+---
+## Zombie Sheep
+
+Ce projet a été réalisé par : 
+Julie Thierry, Hugo Prévost, Yuxiang Li et Elena Ki avec [Processing](https://processing.org/) et [Arduino](https://www.arduino.cc/)
+
+<img src="Zombie_Sheep/Flyer.png" width="240" height="300" />
+
+<img src="Zombie_Sheep/gif.gif" width="480" height="300" />
+
+La documentation du projet est disponible [ici](Zombie_Sheep/README.md)
 
 
 ---
 ## Circus Madness
 
 Ce projet a été réalisé par : 
-Simon Heurtebise, Paul Joly, Jeanne Verstraete et Arthur Joly avec avec [Processing](https://processing.org/) et [Arduino](https://www.arduino.cc/)
+Simon Heurtebise, Paul Joly, Jeanne Verstraete et Arthur Joly avec [Processing](https://processing.org/) et [Arduino](https://www.arduino.cc/)
 
 <img src="Circus_Madness/Flyer1.png" width="240" height="300" /><img src="Circus_Madness/Flyer2.png" width="240" height="300" />
 
