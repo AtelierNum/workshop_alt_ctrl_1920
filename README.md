@@ -91,8 +91,6 @@ Simon Heurtebise, Paul Joly, Jeanne Verstraete et Arthur Joly avec [Processing](
 
 La documentation du projet est disponible [ici](Circus_Madness/README.md)
 
-
-
 ---
 ## TripleM
 
