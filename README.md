@@ -105,5 +105,3 @@ Julie Boudaud, Rémi Leprevost, Zoé Pan et Lingyi Xia avec [Unity](https://unit
 La documentation du projet est disponible [ici](TripleM/Documentation.pdf)
 
 
----
-[**home**](../README.md)
