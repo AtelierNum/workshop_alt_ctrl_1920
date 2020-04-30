@@ -38,6 +38,19 @@ Célia Toupin, Allan Guégan, Léo Archer et Ulysse Ducamp avec [Unity](https://
 
 La documentation du projet est disponible [ici](Shaolin_Dragon/README.md)
 
+---
+## Une dernière volonté ?
+
+Ce projet a été réalisé par : 
+Mathilde Belvèze, Siloë Boiteau, Aurélien Colloc et Victor Pérouse avec [Processing](https://processing.org/) et [Arduino](https://www.arduino.cc/)
+
+<img src="Last_Will/Flyer.png" width="240" height="300" />
+
+<img src="Last_Will/gif.GIF" width="480" height="300" />
+
+La documentation du projet est disponible [ici](Last_Will/README.md)
+
+
 
 ---
 ## Circus Madness
